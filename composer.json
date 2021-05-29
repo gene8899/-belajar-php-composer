@@ -1,0 +1,27 @@
+{
+    "name": "programmerzamannow/belajar-php-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "gene",
+            "email": "gene.forward8800@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gene8899/belajar-php-composer-hello"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ProgrammerZamanNow\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "programmerzamannow/belajar-php-composer-hello": "2.0.0",
+        "monolog/monolog": "2.2.0"
+    }
+}
