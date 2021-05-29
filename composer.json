@@ -21,7 +21,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "programmerzamannow/belajar-php-composer-hello": "2.0.0",
+        "programmerzamannowbgs/belajar-php-composer-hello": "2.0.0",
         "monolog/monolog": "2.2.0"
     }
 }

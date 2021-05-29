@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "011509f2cd8a1c58a896271ab4524614",
+    "content-hash": "fafa7089b15d3decf038e6ec30963e42",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -103,7 +103,7 @@
             "time": "2020-12-14T13:15:25+00:00"
         },
         {
-            "name": "programmerzamannow/belajar-php-composer-hello",
+            "name": "programmerzamannowbgs/belajar-php-composer-hello",
             "version": "2.0.0",
             "source": {
                 "type": "git",
