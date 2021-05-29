@@ -8,12 +8,6 @@
             "email": "gene.forward8800@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/gene8899/belajar-php-composer-hello"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "ProgrammerZamanNow\\": "src/"

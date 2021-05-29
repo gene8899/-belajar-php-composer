@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fafa7089b15d3decf038e6ec30963e42",
+    "content-hash": "5e4b8a9e9890f54ebd717193f8c70205",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -125,6 +125,7 @@
                     "ProgrammerZamanNow\\Belajar\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "authors": [
                 {
                     "name": "gene",
@@ -133,8 +134,8 @@
             ],
             "description": "Library Composer Hello",
             "support": {
-                "source": "https://github.com/gene8899/belajar-php-composer-hello/tree/2.0.0",
-                "issues": "https://github.com/gene8899/belajar-php-composer-hello/issues"
+                "issues": "https://github.com/gene8899/belajar-php-composer-hello/issues",
+                "source": "https://github.com/gene8899/belajar-php-composer-hello/tree/2.0.0"
             },
             "time": "2021-05-29T16:15:10+00:00"
         },
